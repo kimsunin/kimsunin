@@ -1,7 +1,5 @@
 ### kimsunin
 
-사용자의 경험을 중요하게 생각합니다
-
 <br>
 
 [![Blog Badge](https://img.shields.io/badge/Blog-1d1f21?logo=Next.js&logoColor=white)](https://megadev.me)

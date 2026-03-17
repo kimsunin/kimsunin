@@ -11,7 +11,7 @@
 
 ### Projects
 
-* **🏡 농행동행** : [Link]([https://nonghaeng.site](https://github.com/NonghaengDonghaeng))
+* **🏡 농행동행** : [Link](https://github.com/NonghaengDonghaeng)
 * **☁️ My Cloud** : [Link](https://cloud.sunin.cloud)
 
 ### Contact

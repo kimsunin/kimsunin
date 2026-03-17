@@ -11,9 +11,9 @@
 
 ### Projects
 
-* **🏡 농행동행** : [Link](https://github.com/NonghaengDonghaeng)
-* **☁️ My Cloud** : [Link](https://cloud.sunin.cloud)
+* [🏡 농행동행](https://github.com/NonghaengDonghaeng)
+* [☁️ My Cloud](https://cloud.sunin.cloud)
 
 ### Contact
 
-* **Email:** suninkim10@gmail.com
+* Email: suninkim10@gmail.com

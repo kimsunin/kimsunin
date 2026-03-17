@@ -1,8 +1,6 @@
-### kimsunin
+## kimsunin
 
-<br>
-
-#### Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
@@ -11,15 +9,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<br>
+### Projects
 
-#### Projects
+* **🏡 농행동행** : [Link](https://nonghaeng.site)
+* **☁️ My Cloud** : [Link](https://cloud.sunin.cloud)
 
-* **농행동행** : [Link](https://nonghaeng.site)
-* **My Cloud** : [Link](https://cloud.sunin.cloud)
-
-<br>
-
-#### Contact
+### Contact
 
 * **Email:** suninkim10@gmail.com

@@ -1,5 +1,5 @@
 ## Kimsunin
-![[./assets/insideout-anxiety.gif]]
+![anxiety](./assets/insideout-anxiety.gif)
 
 ### Tech Stack
 
